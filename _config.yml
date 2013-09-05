@@ -1,32 +1,32 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Cube Head
+description:      missives from the corners of the mind
+disqus_shortname: a blog by joe aultman
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://cube-head.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Joe Aultman
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I mess with a lot of different technologies. Essbase is the coolest tech there is."
+  email:          joe.aultman@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  #  twitter:        
+  #  facebook:       
+  github: https://github.com/cube-head        
+  #  stackexchange:  
+  linkedin: http://www.linkedin.com/in/joeaultman      
+  #  instagram:      
+  #  flickr:         
+  #  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  #  google_plus:   
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+#google_analytics:   
+#google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+#bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
